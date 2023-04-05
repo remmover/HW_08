@@ -42,7 +42,7 @@ def get_birthdays_per_week(b_days):
             if birthday_person:
                 print(f"{day} : {', '.join(birthday_person)}")
 
-    except Exception as e:
+    except Exception:
         print('Check the entered data pls.')
 
 
