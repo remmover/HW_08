@@ -6,14 +6,10 @@ This program is designed to retrieve and display upcoming birthdays within a wee
 
 1. Ensure that Python is installed on your system.
 2. Download the program files from the repository.
-3. Install the required dependencies by running the following command:
-   ```
-   pip install -r requirements.txt
-   ```
-4. Open the `birthday_greeting.py` file in a text editor.
-5. Modify the `users` list with the desired user information. Each user should have a `'name'` and `'birthday'` entry. The birthday should be in the format `'dd, mm, yyyy'`.
-6. Save the changes to the `birthday_greeting.py` file.
-7. Run the program by executing the following command:
+3. Open the `birthday_greeting.py` file in a text editor.
+4. Modify the `users` list with the desired user information. Each user should have a `'name'` and `'birthday'` entry. The birthday should be in the format `'dd, mm, yyyy'`.
+5. Save the changes to the `birthday_greeting.py` file.
+6. Run the program by executing the following command:
    ```
    python birthday_greeting.py
    ```
